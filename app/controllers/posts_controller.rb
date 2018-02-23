@@ -10,4 +10,8 @@ class PostsController < ApplicationController
     render :show
   end
 
+  def new 
+  	
+  end
+
 end
